@@ -1,0 +1,8 @@
+void main(){
+    print('''
+    Hello Git!
+I am learning Git and GitHub.
+This is my first Git practice.
+    '''
+    );
+}
